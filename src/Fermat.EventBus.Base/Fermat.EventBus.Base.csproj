@@ -6,7 +6,7 @@
         <Nullable>enable</Nullable>
         <PackageId>Fermat.EventBus.Base</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>0.0.0</Version>
+        <Version>0.0.1</Version>
         <Authors>Samet Karademir</Authors>
         <Description> A base library for event bus implementations in .NET applications, providing common abstractions and utilities.</Description>
         <PackageTags>event-bus;event;message;publish;subscribe</PackageTags>
